@@ -13,9 +13,9 @@ Frameworks. And Jest is used for the testing.
 **Request body** : 
 
 {
-"startDate":"2016-03-26",
+"startDate":"2019-03-26",
 
-"endDate": "2017-01-27",
+"endDate": "2020-01-27",
 
 "minCount": 3000,
 
